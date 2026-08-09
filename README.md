@@ -2,7 +2,7 @@
 
 # Hi, I'm Vinaybaalaji 👋
 
-**Security engineer building things that attack and defend real systems — not just talk about them.**
+
 
 [![Email](https://img.shields.io/badge/Email-vinaybaalaji.vb%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinaybaalaji.vb@gmail.com)
 
